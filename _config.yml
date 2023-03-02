@@ -81,10 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Emanuel Tewolde"
-  avatar           : "profile.png"
+  avatar           : "18A941F2-88B1-407D-97AE-021ECE934AB8SAVE_20190304_151848.jpeg"
   bio              : "PhD student in AI and Game Theory"
   location         : "Pittsburgh, Frankfurt, Oxford"
-  employer         : "Carnegie Mellon University, Computer Science Department"
+  employer         : > "Computer Science Department, 
+                        Carnegie Mellon University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : emanueltewolde@cmu.edu
