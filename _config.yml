@@ -14,7 +14,7 @@ description              : &description "Personal Webpage of Emanuel Tewolde"
 url                      : https://emanueltewolde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emanueltewolde/emanueltewolde.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  18A941F2-88B1-407D-97AE-021ECE934AB8SAVE_20190304_151848.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
