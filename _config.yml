@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Emanuel Tewolde"
-description              : &description "Personal Webpage of Emanuel Tewolde"
+description              : &description "Welcome to the Personal Webpage of Emanuel Tewolde!"
 url                      : https://emanueltewolde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emanueltewolde/emanueltewolde.github.io"
