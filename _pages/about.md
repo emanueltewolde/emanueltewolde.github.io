@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am Emanuel Tewolde and a first-year PhD student in the Computer Science Department of Carnegie Mellon University. I am fortunate enough to be advised by [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) and part of the [Foundations of Cooperative AI Lab](http://www.cs.cmu.edu/~focal/).
+I am Emanuel Tewolde and a first-year PhD student in the Computer Science Department of Carnegie Mellon University. I am fortunate enough to be advised by [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) and to be part of the [Foundations of Cooperative AI Lab](http://www.cs.cmu.edu/~focal/). I work on the broad intersection of Artificial Intelligence and strategic decision making.
 
 Old Stuff
 ======
