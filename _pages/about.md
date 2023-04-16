@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website of Emanuel Tewolde"
+title: "Welcome to my Academic Website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
