@@ -60,5 +60,9 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.arxivurl %}
+    <p><a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a></p>
+    {% endif %}
+
   </article>
 </div>
