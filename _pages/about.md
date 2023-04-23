@@ -23,7 +23,7 @@ Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imp
 
 ## Working Papers
 
-{% for post in site.working_papers reversed %}
+{% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
