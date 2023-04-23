@@ -13,3 +13,17 @@ I am Emanuel Tewolde and a first-year PhD student in the Computer Science Depart
 My current research interests lie in algorithmic game theory and (multi-agent) reinforcement learning. I strive to understand how to enable artificial intelligence and humans to effectively achieve better (social) outcomes in strategic interactions with other agents. The methods I enjoy using include mathematical optimization, complexity theory, learning in games and deep learning.
 
 Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the [Fraunhofer IEE](https://www.iee.fraunhofer.de/en.html) on machine learning methods for smarter renewable energy systems.
+
+
+
+# Publications
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
