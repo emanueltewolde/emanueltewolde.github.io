@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emanuel Tewolde"
-  avatar           : profile.jpeg
+  avatar           : profile.png
   bio              : "PhD student in AI and Game Theory"
   location         : "Pittsburgh, Frankfurt, Oxford"
   employer         : "Carnegie Mellon University" #> "Computer Science Department,
