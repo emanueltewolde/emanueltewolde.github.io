@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="../files/CV_Emanuel_Tewolde_26_04_23.pdf">arXiv</a>
 
-<object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+<object data="../files/CV_Emanuel_Tewolde_26_04_23.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="../files/CV_Emanuel_Tewolde_26_04_23.pdf">Download</a> my CV instead.</p>
 </object>
 
 <!-- Education
