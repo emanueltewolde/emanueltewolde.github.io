@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<a href="../files/CV_Emanuel_Tewolde_26_04_23.pdf">arXiv</a>
-
 <object data="../files/CV_Emanuel_Tewolde_26_04_23.pdf" type="application/pdf" width="100%" height="500px">
       <p>Unable to display PDF file. <a href="../files/CV_Emanuel_Tewolde_26_04_23.pdf">Download</a> my CV instead.</p>
 </object>
