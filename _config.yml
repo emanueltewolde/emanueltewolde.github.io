@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, Frankfurt, Oxford"
   employer         : "Carnegie Mellon University" #> "Computer Science Department,
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en"
   email            : emanueltewolde@cmu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

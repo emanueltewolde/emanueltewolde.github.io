@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Emanuel Tewolde and a first-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" http://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> [Vincent Conitzer](http://www.cs.cmu.edu/~conitzer/) and to be part of the [Foundations of Cooperative AI Lab (FOCAL)](http://www.cs.cmu.edu/~focal/). 
+I am Emanuel Tewolde and a first-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" http://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> and to be part of the <a href=" http://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer">Foundations of Cooperative AI Lab (FOCAL)</a>. 
 
 My current research interests lie in algorithmic game theory and (multi-agent) reinforcement learning. I strive to understand how to enable artificial intelligence and humans to effectively achieve better (social) outcomes in strategic interactions with other agents. The methods I enjoy using include mathematical optimization, complexity theory, learning in games and deep learning.
 
-Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the [Fraunhofer IEE](https://www.iee.fraunhofer.de/en.html) on machine learning methods for smarter renewable energy systems.
+Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer">Fraunhofer IEE</a> on machine learning methods for smarter renewable energy systems.
 
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
