@@ -12,6 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign authors = post.authors %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -35,10 +37,10 @@
     </h4> -->
 
     <h4 class="archive__item-title" itemprop="headline">
-    </h4><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
     </h4> 
     
-    post.authors
+    {{ authors }}, {{ post.authors }}
     
     {% if post.paperurl %}
     [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">Published Version</a>] 
