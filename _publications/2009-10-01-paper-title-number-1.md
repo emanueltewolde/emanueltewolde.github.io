@@ -2,7 +2,7 @@
 title: "The Computational Complexity of Single-Player Imperfect-Recall Games"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
-#permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
+# permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-19
@@ -16,4 +16,4 @@ arxivurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 ---
 
-<a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer">CV</a>, Bla bla, <a href=" ../files/paper1.pdf " target="_blank"  rel="noopener noreferrer">paper1</a>, Bla bla, <a href=" ../files/preservinggametrafos.pdf " target="_blank"  rel="noopener noreferrer">GEB23preprint</a>
+<!-- <a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer">CV</a>, Bla bla, <a href=" ../files/paper1.pdf " target="_blank"  rel="noopener noreferrer">paper1</a>, Bla bla, <a href=" ../files/preservinggametrafos.pdf " target="_blank"  rel="noopener noreferrer">GEB23preprint</a> -->
