@@ -2,7 +2,7 @@
 title: "The Computational Complexity of Single-Player Imperfect-Recall Games"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
-permalink: ../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
+permalink: 'emanueltewolde.github.io/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-19
 authors: Emanuel Tewolde, Caspar Oesterheld, Vincent Conitzer, and Paul W. Goldberg
