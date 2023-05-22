@@ -39,3 +39,9 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu .
   {% include archive-single.html %}
 {% endfor %}
 
+## Teaching
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
