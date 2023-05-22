@@ -51,7 +51,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-<!--  -->
+<!--
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
@@ -59,9 +59,13 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %},
-<!--  -->
+-->
+    {% if post.paperurl %}
+    [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">Published Version</a>] 
+    {% endif %}
+
     {% if post.arxivurl %}
-    <p><a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a></p>
+    [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] 
     {% endif %}
 
   </article>
