@@ -16,9 +16,8 @@ My current research interests lie in algorithmic game theory and (multi-agent) r
 
 Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer">Fraunhofer IEE</a> on machine learning methods for smarter renewable energy systems.
 
-Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu .
-
-
+Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu
+<br>
 <a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer">CV</a>,  <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer">Google Scholar</a> 
 
 <!--| <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer">DBLP</a> -->
