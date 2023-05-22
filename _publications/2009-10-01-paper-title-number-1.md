@@ -2,7 +2,7 @@
 title: "The Computational Complexity of Single-Player Imperfect-Recall Games"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
-permalink: /files/paper1.pdf
+permalink: https://github.com/emanueltewolde/emanueltewolde.github.io/blob/a53ef31b44b2fa7c50bab39d133d3de0c9c66679/files/paper1.pdf #/files/paper1.pdf 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-19
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
