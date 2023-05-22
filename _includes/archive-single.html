@@ -38,7 +38,7 @@
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
     </h3> 
     
-    <br>
+    <!-- <br> -->
     {{ post.authors }}
 
     {% if post.collection == 'teaching' %}
@@ -54,9 +54,9 @@
     {% endif %}
 
 
-    <!-- {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
+    {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
       <br> 
-    {% endif %} -->
+    {% endif %}
 
     {% if post.paperurl %}
     [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">Published Version</a>] 
