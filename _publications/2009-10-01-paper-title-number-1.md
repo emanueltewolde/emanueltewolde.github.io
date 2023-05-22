@@ -11,3 +11,7 @@ arxivurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 
 ---
+
+<a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer">CV</a> 
+
+<a href=" ../files/paper1.pdf " target="_blank"  rel="noopener noreferrer">paper1</a>
