@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  working_papers:
+  workingpapers:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _working_papers
+  # _workingpapers
   - scope:
       path: ""
-      type: working_papers
+      type: workingpapers
     values:
       layout: single
       author_profile: true
