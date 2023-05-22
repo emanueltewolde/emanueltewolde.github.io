@@ -14,7 +14,7 @@ description              : &description "Emanuel Tewolde - Academic Webpage"
 url                      : https://emanueltewolde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emanueltewolde/emanueltewolde.github.io"
-teaser                   : # 18A941F2-88B1-407D-97AE-021ECE934AB8SAVE_20190304_151848.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : image-alignment-300x200.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : #Person # Person or Organization (defaults to Person)
+  name                   : #LinkedIn # If the user or organization name differs from the site's name
+  links: #https://linkedin.com/in/emanueltewolde # An array of links to social media profiles
 
 
 # Analytics
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Emanuel Tewolde"
-  avatar           : profile.png
-  bio              : "PhD student in AI and Game Theory"
+  avatar           : "profile.png"
+  bio              : "PhD student in Artificial Intelligence and and Game Theory"
   location         : "Pittsburgh, Frankfurt, Oxford"
   employer         : "Carnegie Mellon University" #> "Computer Science Department,
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en"
-  email            : emanueltewolde@cmu.edu
+  email            : "emanueltewolde@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/emanueltewolde"
   orcid            : "https://orcid.org/0000-0003-4128-7872"
   pinterest        :
   soundcloud       :
