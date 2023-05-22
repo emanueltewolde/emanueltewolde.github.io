@@ -7,7 +7,7 @@ filelink: '/files/paper11.pdf'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-29
 authors: Emanuel Tewolde
-# venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
+venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 arxivurl: 'https://arxiv.org/abs/2111.00076'
 slidesurl: 'https://arxiv.org/abs/2111.00076'
