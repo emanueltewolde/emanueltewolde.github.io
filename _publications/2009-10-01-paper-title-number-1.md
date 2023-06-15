@@ -8,8 +8,8 @@ filelink: '/files/paper11.pdf'
 date: 2023-08-19
 authors: Emanuel Tewolde, Caspar Oesterheld, Vincent Conitzer, and Paul W. Goldberg
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-arxivurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+arxivurl: 'https://academicpages.github.io/files/paper1.pdf'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 #videourl: 'https://arxiv.org/abs/2111.00076'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
