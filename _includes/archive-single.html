@@ -33,27 +33,46 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h4> -->
-
-    <h3 class="archive__item-title" itemprop="headline">
-    <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
-    </h3> 
     
-    <!-- <br> -->
-    {{ post.authors }}
+    {% if post.collection == 'workingpapers' %}
+      <h3 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
+      </h3> 
+      {{ post.authors }}
+      <br>
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
+    {% endif %}
 
+    {% if post.collection == 'publications' %}
+      <h3 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
+      </h3> 
+      {{ post.authors }}
+      <br>
+      Published in <i>{{ post.venue }}</i>
+      <br>
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
+    {% endif %}
+    
+    
     {% if post.collection == 'teaching' %}
+      <h3 class="archive__item-title" itemprop="headline">
+      </h3> 
       <br> 
       {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-    {% elsif post.collection == 'publications' %}
+    {% endif %}
+
+
+    <!--  {% elsif post.collection == 'publications' %}
       <br> 
-      Published in <i>{{ post.venue }}</i> <!-- , {{ post.date | default: "1900-01-01" | date: "%Y" }} -->
+      Published in <i>{{ post.venue }}</i> , {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {% elsif post.collection == 'workingpapers' %}
       {% if post.arxivurl %} 
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
       {% endif %}
-    {% endif %}
+    {% endif %} -->
 
-
+<!--
     {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
       <br> 
     {% endif %}
@@ -78,6 +97,7 @@
     <br> 
     {{ post.excerpt }} 
     {% endif %}
+ -->
  
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
