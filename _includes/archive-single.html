@@ -39,8 +39,8 @@
       <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
-      <br>
-      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
+      <!-- <br>
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
     {% endif %}
 
     {% if post.collection == 'publications' %}
@@ -50,15 +50,14 @@
       {{ post.authors }}
       <br>
       Published in <i>{{ post.venue }}</i>
-      <br>
-      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
+      <!-- <br>
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
     {% endif %}
     
     
     {% if post.collection == 'teaching' %}
       <h3 class="archive__item-title" itemprop="headline">
-      </h3> 
-      <br> 
+      </h3>
       {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
     {% endif %}
 
@@ -72,13 +71,13 @@
       {% endif %}
     {% endif %} -->
 
-<!--
+
     {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
       <br> 
     {% endif %}
 
     {% if post.paperurl %}
-    [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">Published Version</a>] 
+    [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">published version</a>] 
     {% endif %}
 
     {% if post.arxivurl %}
@@ -97,8 +96,8 @@
     <br> 
     {{ post.excerpt }} 
     {% endif %}
- -->
- 
+
+
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
