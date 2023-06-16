@@ -62,16 +62,6 @@
     {% endif %}
 
 
-    <!--  {% elsif post.collection == 'publications' %}
-      <br> 
-      Published in <i>{{ post.venue }}</i> , {{ post.date | default: "1900-01-01" | date: "%Y" }}
-    {% elsif post.collection == 'workingpapers' %}
-      {% if post.arxivurl %} 
-      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>]
-      {% endif %}
-    {% endif %} -->
-
-
     {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
       <br> 
     {% endif %}
