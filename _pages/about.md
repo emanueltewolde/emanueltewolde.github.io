@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my academic website! It is work in progress, especially starting from the section "Working Papers".
 
-I am a first-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer">Foundations of Cooperative AI Lab (FOCAL)</a>. 
+I am a second-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer">Foundations of Cooperative AI Lab (FOCAL)</a>. 
 
 My current research interests lie in algorithmic game theory and (multi-agent) reinforcement learning. I strive to understand how to enable artificial intelligence and humans to effectively achieve better (social) outcomes in strategic interactions with other agents. The methods I enjoy using include mathematical optimization, complexity theory, learning in games and deep learning.
 
