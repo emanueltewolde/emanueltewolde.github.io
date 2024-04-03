@@ -6,7 +6,7 @@ collection: workingpapers
 filelink: '/files/preservinggametrafos.pdf'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-29
-authors: Emanuel Tewolde
+authors: Emanuel Tewolde and Vincent Conitzer
 #venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
 #paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 arxivurl: 'https://arxiv.org/abs/2111.00076'
@@ -15,3 +15,4 @@ arxivurl: 'https://arxiv.org/abs/2111.00076'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 
 ---
+<img src="{{ '/images/dblpicon.png' | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
