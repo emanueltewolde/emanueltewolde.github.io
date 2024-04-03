@@ -13,6 +13,6 @@ arxivurl: 'https://arxiv.org/abs/2111.00076'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 #videourl: 'https://arxiv.org/abs/2111.00076'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-image: <img src="{{ '/images/dblpicon.png' | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
+image: '/images/dblpicon.png'
 
 ---

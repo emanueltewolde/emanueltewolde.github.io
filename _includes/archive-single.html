@@ -54,7 +54,7 @@
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
       {% if post.image %} 
         <br> 
-        {{ post.image }} 
+        <img src="{{ post.image | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
       {% endif %}
     {% endif %}
     
