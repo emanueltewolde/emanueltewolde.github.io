@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Algebra (2nd year course)"
+title: "Introduction to Algebra"
 collection: teaching
 type: "Teaching Assistance"
 # permalink: /teaching/2014-spring-teaching-1
