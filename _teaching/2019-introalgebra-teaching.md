@@ -1,10 +1,11 @@
 ---
-# title: "Analysis 1"
+title: "Introduction to Algebra (2nd year course)"
 collection: teaching
-type: "Analysis 1 (Teaching Assistant)"
+type: "Teaching Assistance"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Technical University Darmstadt"
-date: 2017-10-01
+start_date: 2019-04-01
+end_date: 2019-09-30
 # location: "City, Country"
 
 

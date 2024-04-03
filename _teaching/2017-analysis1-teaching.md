@@ -1,5 +1,5 @@
 ---
-title: "Analysis 1"
+title: "Analysis 1 (1st year course)"
 collection: teaching
 type: "Teaching Assistance"
 # permalink: /teaching/2014-spring-teaching-1
