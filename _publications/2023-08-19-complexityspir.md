@@ -8,7 +8,7 @@ filelink: '/files/complexityspir.pdf'
 date: 2023-08-19
 authors: Emanuel Tewolde, Caspar Oesterheld, Vincent Conitzer, and Paul W. Goldberg
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
-#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.ijcai.org/proceedings/2023/321'
 arxivurl: 'https://arxiv.org/abs/2305.17805'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 #videourl: 'https://arxiv.org/abs/2111.00076'
