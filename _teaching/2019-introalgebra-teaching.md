@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Algebra"
+title: "Intro to Algebra"
 collection: teaching
 type: "Teaching Assistance"
 # permalink: /teaching/2014-spring-teaching-1

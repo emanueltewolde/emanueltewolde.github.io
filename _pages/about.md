@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! It is work in progress, especially starting from the section "Working Papers".
+<!-- Welcome to my academic website! It is work in progress, especially starting from the section "Working Papers". -->
 
 I am a second-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer">Foundations of Cooperative AI Lab (FOCAL)</a>. 
 
