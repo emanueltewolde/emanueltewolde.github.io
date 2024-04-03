@@ -1,6 +1,6 @@
 ---
 title: "Imperfect-Recall Games: Equilibrium Concepts and Their Complexity"
-collection: publications
+collection: workingpapers
 # # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 # filelink: '/files/complexityspir.pdf' 
