@@ -22,4 +22,4 @@ end_date: 2020-09-30
 
 ---
 
-Taught and supervised new 5 – 10 TAs per semester for the mathematics department
+Taught and supervised 5 – 10 new TAs per semester for the mathematics department
