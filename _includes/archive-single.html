@@ -58,9 +58,8 @@
     {% if post.collection == 'teaching' %}
       <h3 class="archive__item-title" itemprop="headline">
       </h3>
-      {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+      {{ post.title }}, {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.start_date | date: "%b %Y" }} - {{ post.end_date | date: "%b %Y" }}  
     {% endif %}
-
 
     {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
       <br> 

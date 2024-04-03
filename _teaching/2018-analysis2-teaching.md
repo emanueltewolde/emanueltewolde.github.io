@@ -1,11 +1,10 @@
 ---
-title: "Analysis 1"
+# title: "Analysis 1"
 collection: teaching
-type: "Teaching Assistance"
+type: "Analysis 2 (Teaching Assistant)"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Technical University Darmstadt"
-start_date: 2017-10-01
-end_date: 2018-03-31
+date: 2018-04-01
 # location: "City, Country"
 
 
