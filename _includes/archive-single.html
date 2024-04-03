@@ -41,10 +41,6 @@
       {{ post.authors }}
       <!-- <br>
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
-      {% if post.image %} 
-        <br> 
-        <img src="{{ post.image | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
-      {% endif %}
       {% endif %}
 
     {% if post.collection == 'publications' %}
@@ -56,10 +52,6 @@
       Published in <i>{{ post.venue }}</i>
       <!-- <br>
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
-      {% if post.image %} 
-        <br> 
-        <img src="{{ post.image | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
-      {% endif %}
     {% endif %}
     
     
@@ -87,6 +79,11 @@
 
     {% if post.videourl %}
     [<a href=" {{ post.videourl }} " target="_blank"  rel="noopener noreferrer">video</a>] 
+    {% endif %}
+
+    {% if post.image %} 
+    <br> 
+    <img src="{{ post.image | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
     {% endif %}
 
     {% if post.excerpt %}
