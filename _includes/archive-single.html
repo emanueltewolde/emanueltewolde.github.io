@@ -36,7 +36,12 @@
     
     {% if post.collection == 'workingpapers' %}
       <h3 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
+      {% if post.filelink %}
+        <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+      <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
       <!-- <br>
