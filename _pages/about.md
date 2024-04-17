@@ -26,6 +26,8 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu
   You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
+In below, (&alpha; &beta;) stands for alphabetical author ordering.
+
 {% include base_path %}
 
 ## Working Papers
