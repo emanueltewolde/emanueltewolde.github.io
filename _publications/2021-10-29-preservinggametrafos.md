@@ -6,8 +6,8 @@ collection: publications
 filelink: '/files/preservinggametrafos.pdf'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-29
-authors: Emanuel Tewolde and Vincent Conitzer
-status: To appear in
+authors: 'Emanuel Tewolde and Vincent Conitzer'
+status: 'To appear in'
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
 #paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 arxivurl: 'https://arxiv.org/abs/2111.00076'
