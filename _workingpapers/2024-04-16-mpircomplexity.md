@@ -3,7 +3,7 @@ title: "Imperfect-Recall Games: Equilibrium Concepts and Their Complexity"
 collection: workingpapers
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
-filelink: '/files/GAIW2024_IR_Games_Camera_Ready.pdf' 
+filelink: '/files/mpircomplexity.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-10
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Manolis Zampetakis, Tuomas Sandholm, Paul W. Goldberg, and Vincent Conitzer'
