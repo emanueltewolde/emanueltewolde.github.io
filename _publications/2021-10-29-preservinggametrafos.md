@@ -1,5 +1,5 @@
 ---
-title: "Game Transformations that preserve Nash Equilibrium sets and/or Best Response sets"
+title: "Game Transformations That Preserve Nash Equilibria or Best-Response Sets"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: 'files/paper11.pdf' #/files/paper11.pdf #preservinggametrafos.pdf
