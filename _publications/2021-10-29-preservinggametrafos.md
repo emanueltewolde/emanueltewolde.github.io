@@ -5,7 +5,7 @@ collection: publications
 # permalink: 'files/paper11.pdf' #/files/paper11.pdf #preservinggametrafos.pdf
 filelink: '/files/preservinggametrafos.pdf'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-02-12
+date: 2024-05-09
 authors: 'Emanuel Tewolde and Vincent Conitzer'
 status: 'To appear in'
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2024'
