@@ -30,11 +30,15 @@ In below, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, a
 
 {% include base_path %}
 
+
+{% if site.workingpapers.size != 0 %}
 ## Working Papers
 
 {% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% endif %}
 
 ## Publications
 
