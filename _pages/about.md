@@ -12,9 +12,9 @@ redirect_from:
 
 I am a third-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer">Vincent Conitzer</a> and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer">Foundations of Cooperative AI Lab (FOCAL)</a>. 
 
-My current research interests lie in algorithmic game theory and reinforcement learning. I strive to understand how to enable artificial intelligence and humans to effectively achieve better (social) outcomes in strategic interactions with other agents. The methods I enjoy using include mathematical optimization, complexity theory, learning in games and deep learning.
+I strive to understand how to enable artificial intelligence and humans to effectively achieve better (social) outcomes in strategic interactions with other agents. More specifically, my current research interests lie in algorithmic game theory and reinforcement learning, with an emphasis on cooperation and coordination of AI systems, trustworthy AI, and AI safety. The tools I enjoy using include mathematical optimization, learning in games, computational complexity, and foundation models.
 
-Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer">Fraunhofer IEE</a> on machine learning methods for smarter renewable energy systems.
+Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer">Fraunhofer-Gesellschaft (IEE)</a> on machine learning methods for smarter renewable energy systems.
 
 Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu
 <br>
