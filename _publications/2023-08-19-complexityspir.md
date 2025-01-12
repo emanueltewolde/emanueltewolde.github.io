@@ -12,7 +12,7 @@ venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
 paperurl: 'https://www.ijcai.org/proceedings/2023/321'
 arxivurl: 'https://arxiv.org/abs/2305.17805'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
-#videourl: 'https://arxiv.org/abs/2111.00076'
+videourl: 'https://ijcai-23.org/video/?vid=39005254'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # image: '/images/dblpicon.png'
 
