@@ -66,8 +66,13 @@
       {{ post.title }}, {{ post.type }}{% if post.type %},{% endif %} <i>{{ post.venue }}</i>, {{ post.start_date | date: "%b %Y" }} - {{ post.end_date | date: "%b %Y" }}  
     {% endif %}
 
-    {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
+    {% if post.distinction %}
       <br> 
+      <b>{{ post.distinction }}</b>
+    {% endif %}
+
+    {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
+    <br> 
     {% endif %}
 
     {% if post.paperurl %}

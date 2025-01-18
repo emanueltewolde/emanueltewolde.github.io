@@ -9,10 +9,11 @@ date: 2025-02-01
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Tuomas Sandholm, and Vincent Conitzer'
 status: 'To appear in'
 venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
+distinction: 'Oral Presentation'
 # paperurl: 'https://www.ijcai.org/proceedings/2023/321'
-# arxivurl:  'https://arxiv.org/abs/2406.15970'
+arxivurl:  'https://arxiv.org/abs/2501.08905'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
-#videourl: 'https://arxiv.org/abs/2111.00076'
+videourl: 'https://youtu.be/X7eEPIJ3dV8'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # image: '/images/dblpicon.png'
 
