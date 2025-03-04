@@ -1,16 +1,47 @@
-/* Increase content width to reduce right margin */
-.page {
-  width: 100%;
-  padding-right: 100px;
-}
+/* Revised CSS to reduce right margin while maintaining original layout */
 
 @media screen and (min-width: 1024px) {
-  .archive, 
-  .page__content {
-    max-width: 1200px; /* Increase from default */
+  /* Adjust container width to be wider */
+  .masthead__inner-wrap,
+  .page__footer,
+  #main {
+    max-width: 1400px; /* Increase from default 1280px */
+    margin-left: auto;
+    margin-right: auto;
   }
   
+  /* Adjust content grid alignment */
+  .page {
+    float: right;
+    width: calc(100% - 300px); /* Account for sidebar width + margin */
+    padding-right: 0; /* Remove right padding that creates the margin */
+  }
+  
+  /* Adjust content container to fill available space */
+  .page__inner-wrap {
+    padding-right: 5em;
+    width: 100%;
+  }
+  
+  /* Keep sidebar in original position with original width */
   .sidebar {
-    width: 250px; /* Keep sidebar compact */
+    /* Standard width from theme */
+    width: calc(300px - 2em);
+    /* Keep original positioning */
+    float: left;
+  }
+  
+  /* Fix potential overflow issues */
+  .archive__item-teaser img,
+  .page__content img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Ensure proper wrapping of content on all screen sizes */
+@media screen and (max-width: 1023px) {
+  .sidebar {
+    margin-bottom: 2em;
   }
 }

@@ -18,7 +18,7 @@ I strive to understand how to enable artificial intelligence and humans to effec
 Prior to CMU, I completed a master's and bachelor's degree in mathematics at Imperial College London and the Technical University Darmstadt respectively. In addition to that, I have also worked with the Fraunhofer-Gesellschaft (IEE) on machine learning methods for smarter renewable energy systems.
 <!-- <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer">Fraunhofer-Gesellschaft (IEE)</a> -->
 
-Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu
+Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 <br>
 <a href=" ../files/CV.pdf " target="_blank"  rel="noopener noreferrer">CV</a>,  <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer">Google Scholar</a>, <a href=" https://dblp.org/pid/305/4404.html " target="_blank"  rel="noopener noreferrer">DBLP</a> 
 
