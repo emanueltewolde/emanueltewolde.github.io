@@ -71,6 +71,11 @@
       <b>{{ post.distinction }}</b>
     {% endif %}
 
+    {% if post.award %}
+      <br> 
+      <b>{{ post.award }}</b>
+    {% endif %}
+
     {% if post.paperurl or post.arxivurl or post.slidesurl or post.videourl %}
     <br> 
     {% endif %}

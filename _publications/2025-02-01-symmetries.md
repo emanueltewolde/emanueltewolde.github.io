@@ -9,7 +9,8 @@ date: 2025-02-01
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Tuomas Sandholm, and Vincent Conitzer'
 status: 'To appear in'
 venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
-distinction: 'Oral Presentation'
+distinction: 'Oral Presentation (Top 4.6%)'
+award: 'Best Poster Award (Competing with 674 posters)
 # paperurl: 'https://www.ijcai.org/proceedings/2023/321'
 arxivurl:  'https://arxiv.org/abs/2501.08905'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
