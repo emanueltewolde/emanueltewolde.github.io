@@ -96,6 +96,10 @@
     [<a href=" {{ post.videourl }} " target="_blank"  rel="noopener noreferrer">video</a>] 
     {% endif %}
 
+    {% if post.otherfeature %}
+    {{ post.otherfeature }}
+    {% endif %}
+
     {% if post.image %} 
     <br> 
     <img src="{{ post.image | prepend: base_path }}" alt="A visual from the paper" style="margin-top: 10px;">
