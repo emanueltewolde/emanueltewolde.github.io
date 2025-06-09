@@ -37,7 +37,7 @@
     {% if post.collection == 'workingpapers' %}
       <h3 class="archive__item-title" itemprop="headline">
       {% if post.filelink %}
-        <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}
@@ -45,18 +45,18 @@
       </h3> 
       {{ post.authors }}
       <!-- <br>
-      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">arXiv</a>] -->
       {% endif %}
 
     {% if post.collection == 'publications' %}
       <h3 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
+      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
       <br>
       {{ post.status }} <i>{{ post.venue }}</i>
       <!-- <br>
-      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] -->
+      [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">arXiv</a>] -->
     {% endif %}
     
     
@@ -81,19 +81,19 @@
     {% endif %}
 
     {% if post.paperurl %}
-    [<a href=" {{ post.paperurl }} " target="_blank"  rel="noopener noreferrer">published version</a>] 
+    [<a href=" {{ post.paperurl }} " target="_blank" rel="noopener noreferrer" style="text-decoration: none" style="text-decoration: none">published version</a>] 
     {% endif %}
 
     {% if post.arxivurl %}
-    [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer">arXiv</a>] 
+    [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">arXiv</a>] 
     {% endif %}
   
     {% if post.slidesurl %}
-    [<a href=" {{ post.slidesurl }} " target="_blank"  rel="noopener noreferrer">slides</a>] 
+    [<a href=" {{ post.slidesurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">slides</a>] 
     {% endif %}
 
     {% if post.videourl %}
-    [<a href=" {{ post.videourl }} " target="_blank"  rel="noopener noreferrer">video</a>] 
+    [<a href=" {{ post.videourl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">video</a>] 
     {% endif %}
 
     {% if post.otherfeature %}

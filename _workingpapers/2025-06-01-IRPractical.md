@@ -18,5 +18,5 @@ authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # image: '/images/dblpicon.png'
 
-#<a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer">CV</a>, Bla bla, <a href=" ../files/paper1.pdf " target="_blank"  rel="noopener noreferrer">paper1</a>, Bla bla, <a href=" ../files/preservinggametrafos.pdf " target="_blank"  rel="noopener noreferrer">GEB23preprint</a> 
+#<a href=" ../files/CV_Emanuel_Tewolde_26_04_23.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">CV</a>, Bla bla, <a href=" ../files/paper1.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">paper1</a>, Bla bla, <a href=" ../files/preservinggametrafos.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">GEB23preprint</a> 
 ---
