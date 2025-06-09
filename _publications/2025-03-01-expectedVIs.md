@@ -9,7 +9,7 @@ date: 2025-03-01
 authors: 'Brian Hu Zhang*, Ioannis Anagnostides*, Emanuel Tewolde, Ratip Emin Berker, Gabriele Farina, Vincent Conitzer, Tuomas Sandholm'
 status: 'To appear in'
 venue: 'International Conference on Machine Learning (ICML) 2025'
-distinction: '<b>Spotlight</b> (Top 2.6%)'
+distinction: '<b>Oral</b> (Top 1.0%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://www.ijcai.org/proceedings/2023/321'
 arxivurl:  'https://arxiv.org/abs/2502.18605'
