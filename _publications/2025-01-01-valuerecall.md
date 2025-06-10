@@ -10,7 +10,7 @@ authors: 'Ratip Emin Berker, Emanuel Tewolde, Ioannis Anagnostides, Tuomas Sandh
 status: 'Published in'
 venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
 distinction: '<b>Oral</b> (Top 4.6%)'
-# paperurl: 'https://www.ijcai.org/proceedings/2023/321'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33489'
 arxivurl:  'https://arxiv.org/abs/2412.19659'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 #videourl: 'https://arxiv.org/abs/2111.00076'

@@ -1,5 +1,5 @@
 ---
-title: "Cooperative AI Summer School "
+title: "Cooperative AI Summer School"
 collection: teaching
 type: "Lead of Reading Group"
 # permalink: /teaching/2014-spring-teaching-1
