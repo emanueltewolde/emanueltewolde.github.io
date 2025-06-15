@@ -5,7 +5,7 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/ExpectedVIs.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-03-01
+date: 2025-04-01
 authors: 'Brian Hu Zhang*, Ioannis Anagnostides*, Emanuel Tewolde, Ratip Emin Berker, Gabriele Farina, Vincent Conitzer, Tuomas Sandholm'
 status: 'To appear in'
 venue: 'International Conference on Machine Learning (ICML) 2025'
