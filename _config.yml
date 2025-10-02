@@ -83,7 +83,7 @@ author:
   name             : "Emanuel Tewolde"
   avatar           : "profile.png"
   bio              : "PhD student in Artificial Intelligence and Game Theory"
-  location         : "Pittsburgh, Frankfurt, Oxford"
+  location         : "Pittsburgh, Frankfurt, London"
   employer         : "Carnegie Mellon University" #> "Computer Science Department,
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "emanueltewolde"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "EmanuelTewolde"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "EmanuelTewolde"
   wikipedia        :
   CV               : "/files/CV_Emanuel_Tewolde_26_04_23.pdf"
   dblp             : "https://dblp.org/pid/305/4404.html"
