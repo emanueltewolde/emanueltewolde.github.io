@@ -5,7 +5,7 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/IRPractical.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-06-01
+date: 2025-09-16
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm, Vincent Conitzer'
 # status: 'Published in'
 # venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
