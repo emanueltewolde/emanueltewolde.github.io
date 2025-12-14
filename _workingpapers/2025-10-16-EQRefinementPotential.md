@@ -3,7 +3,7 @@ title: "The Complexity of Equilibrium Refinements in Potential Games"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
-# filelink: '/files/empty.pdf' 
+filelink: '/files/EQRefinementPotential.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-16
 authors: '- &alpha;&beta; - &#124; Ioannis Anagnostides, Maria-Florina Balcan, Kiriaki Fragkia, Tuomas Sandholm, Emanuel Tewolde, Brian Hu Zhang'
