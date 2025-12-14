@@ -119,7 +119,9 @@
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : {{ site.social.links | jsonify }}{% if site.logo %},
+      "image" : {{ site.logo | prepend: "/" | prepend: seo_url | jsonify }}{% elsif site.og_image %},
+      "image" : {{ site.og_image | prepend: "/images/" | prepend: seo_url | jsonify }}{% endif %}
     }
   </script>
 {% endif %}

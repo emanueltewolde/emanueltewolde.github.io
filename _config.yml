@@ -58,12 +58,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : "EmanuelTewolde"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "images/profile.png"  # Open Graph/Twitter default site image
+og_image                 : "profile.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
