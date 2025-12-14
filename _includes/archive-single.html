@@ -41,6 +41,9 @@
       {% else %}
         {{ title }}
       {% endif %}
+      {% if post.representative == true %}
+        [<span style="color: orange;">★</span>]
+      {% endif %}
       <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
@@ -50,7 +53,11 @@
 
     {% if post.collection == 'publications' %}
       <h3 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a> <!-- rel="permalink">{{ title }}</a> -->
+      <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
+      {% if post.representative == true %}
+        [<span style="color: orange;">★</span>]
+      {% endif %}
+      <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
       <br>

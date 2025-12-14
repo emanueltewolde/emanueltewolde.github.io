@@ -22,7 +22,7 @@ Currently, I am working at Meta's research unit FAIR (within Meta Superintellige
 
 Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 <br>
-<a href=" ../files/CV.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">CV</a>,  <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Google Scholar</a>, <a href=" https://dblp.org/pid/305/4404.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a> 
+<a href=" /short-bio/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Short Bio</a>, <a href=" ../files/CV.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">CV</a>,  <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Google Scholar</a>, <a href=" https://dblp.org/pid/305/4404.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a>
 
 <!--| <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a> -->
 
@@ -47,8 +47,7 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 
 ## Papers
 
-
-In below, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, and '==' superscripts stand for equal contribution.
+In below, [<span style="color: orange;">★</span>] indicate most representative works, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, and superscripts '==' mark equal contribution.
 
 {% if site.workingpapers.size != 0 %}
 ### Working Papers
