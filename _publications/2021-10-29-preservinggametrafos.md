@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/preservinggametrafos.pdf'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-09
+representative: false
 authors: 'Emanuel Tewolde and Vincent Conitzer'
 status: 'Published in'
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2024'

@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/IRPractical.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-09-16
+representative: true
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm, Vincent Conitzer'
 # status: 'Published in'
 # venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'

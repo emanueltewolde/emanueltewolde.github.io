@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/EQRefinementPotential.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-16
+representative: false
 authors: '- &alpha;&beta; - &#124; Ioannis Anagnostides, Maria-Florina Balcan, Kiriaki Fragkia, Tuomas Sandholm, Emanuel Tewolde, Brian Hu Zhang'
 # status: 'Published in'
 # venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'

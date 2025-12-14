@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/RM+KKTConvergence.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-09-08
+representative: true
 authors: 'Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Ioannis Panageas, Tuomas Sandholm, Vincent Conitzer'
 # status: 'Published in'
 # venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'

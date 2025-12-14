@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/mpircomplexity.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-10
+representative: true
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Manolis Zampetakis, Tuomas Sandholm, Paul W. Goldberg, and Vincent Conitzer'
 status: 'Published in'
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2024'

@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/valuerecall.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-01
+representative: false
 authors: 'Ratip Emin Berker, Emanuel Tewolde, Ioannis Anagnostides, Tuomas Sandholm, and Vincent Conitzer'
 status: 'Published in'
 venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'

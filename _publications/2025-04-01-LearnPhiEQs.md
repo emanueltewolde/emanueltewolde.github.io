@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/LearningPhiEQs.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-03-01
+representative: false
 authors: 'Brian Hu Zhang<sup>==</sup>, Ioannis Anagnostides<sup>==</sup>, Emanuel Tewolde, Ratip Emin Berker, Gabriele Farina, Vincent Conitzer, Tuomas Sandholm'
 status: 'Published in'
 venue: 'ACM Conference on Economics and Computation (EC) 2025'

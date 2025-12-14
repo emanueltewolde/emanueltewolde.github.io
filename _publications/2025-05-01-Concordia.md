@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/ConcordiaContest.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-05-01
+representative: false
 authors: 'Chandler Smith, Marwa Abdulhai, ... (15 more authors) ..., Emanuel Tewolde, ... (66 more authors) ..., Jose Hernandez-Orallo, Joel Z Leibo'
 status: 'To appear in'
 venue: 'Neural Information Processing Systems (NeurIPS) 2025 -- Datasets and Benchmarks Track'

@@ -6,6 +6,7 @@ collection: publications
 filelink: '/files/complexityspir.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-19
+representative: false
 authors: 'Emanuel Tewolde, Caspar Oesterheld, Vincent Conitzer, and Paul W. Goldberg'
 status: 'Published in'
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023'
