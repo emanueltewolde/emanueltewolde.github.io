@@ -14,6 +14,7 @@ authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://www.ijcai.org/proceedings/2023/321'
 # arxivurl:  'https://arxiv.org/abs/2502.18582'
+githuburl: 'https://github.com/emanueltewolde/ImperfectRecallDecisions'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
