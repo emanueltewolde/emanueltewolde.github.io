@@ -5,7 +5,7 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/IRPractical.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-09-16
+date: 2026-02-16
 representative: true
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm, Vincent Conitzer'
 # status: 'Published in'

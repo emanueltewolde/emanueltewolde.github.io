@@ -5,11 +5,11 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/RM+KKTConvergence.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-09-08
+date: 2026-01-16
 representative: true
 authors: 'Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Ioannis Panageas, Tuomas Sandholm, Vincent Conitzer'
-# status: 'Published in'
-# venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
+status: 'To appear in'
+venue: 'International Conference on Learning Representations (ICLR) 2026'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://www.ijcai.org/proceedings/2023/321'

@@ -8,7 +8,7 @@ filelink: '/files/ConcordiaContest.pdf'
 date: 2025-05-01
 representative: false
 authors: 'Chandler Smith, Marwa Abdulhai, ... (15 more authors) ..., Emanuel Tewolde, ... (66 more authors) ..., Jose Hernandez-Orallo, Joel Z Leibo'
-status: 'To appear in'
+status: 'Published in'
 venue: 'Neural Information Processing Systems (NeurIPS) 2025 -- Datasets and Benchmarks Track'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
