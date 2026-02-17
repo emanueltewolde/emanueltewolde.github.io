@@ -3,7 +3,7 @@ title: "What Does It Take to Be a Good AI Research Agent? Studying the Role of I
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
-# filelink: '/files/empty.pdf' 
+filelink: '/files/AIRAdiversity.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-01
 representative: false
