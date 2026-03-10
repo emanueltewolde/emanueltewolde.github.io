@@ -22,7 +22,7 @@ Currently, I am working at Meta's research unit FAIR (within Meta Superintellige
 
 Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 <br>
-<a href=" /short-bio/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Short Bio</a>, <a href=" ../files/CV.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">CV</a>,  <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Google Scholar</a>, <a href=" https://dblp.org/pid/305/4404.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a>
+<a href=" /short-bio/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Short Bio</a>, <a href=" ../files/CV.pdf " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">CV</a>,  <a href=" https://scholar.google.com/citations?hl=en&user=LpZkIogAAAAJ&view_op=list_works&sortby=pubdate " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Google Scholar</a>, <a href=" https://dblp.org/pid/305/4404.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a>
 
 <!--| <a href=" https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">DBLP</a> -->
 
