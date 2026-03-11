@@ -70,7 +70,7 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : "Emanuel Tewolde" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en"
+    - "https://scholar.google.com/citations?hl=en&user=LpZkIogAAAAJ&view_op=list_works&sortby=pubdate"
     - "https://github.com/emanueltewolde"
     - "https://dblp.org/pid/305/4404.html"
     - "https://www.linkedin.com/in/emanueltewolde"
@@ -94,7 +94,7 @@ author:
   location         : "Pittsburgh, Frankfurt, London"
   employer         : "Carnegie Mellon University" #> "Computer Science Department,
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LpZkIogAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LpZkIogAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "emanueltewolde@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
