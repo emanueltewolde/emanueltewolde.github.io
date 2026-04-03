@@ -49,11 +49,15 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 
 In below, [<span style="color: orange;">★</span>] indicate most representative works, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, and superscripts '==' mark equal contribution.
 
-{% if site.workingpapers.size != 0 %}
+{% assign total_pubs = site.publications.size %}
+{% assign total_wps = site.workingpapers.size %}
+
+{% if total_wps != 0 %}
 ### Working Papers
 
 {% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
+  {% assign paper_counter = total_pubs | plus: total_wps | minus: forloop.index0 %}
+  {% include archive-single.html counter=paper_counter %}
 {% endfor %}
 
 {% endif %}
@@ -61,7 +65,8 @@ In below, [<span style="color: orange;">★</span>] indicate most representative
 ### Publications
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% assign paper_counter = total_pubs | minus: forloop.index0 %}
+  {% include archive-single.html counter=paper_counter %}
 {% endfor %}
 
 ## Teaching

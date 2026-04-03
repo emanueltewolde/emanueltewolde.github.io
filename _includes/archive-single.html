@@ -36,6 +36,7 @@
     
     {% if post.collection == 'workingpapers' %}
       <h3 class="archive__item-title" itemprop="headline">
+      {% if include.counter %}{{ include.counter }}.{% endif %}
       {% if post.filelink %}
         <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
       {% else %}
@@ -53,6 +54,7 @@
 
     {% if post.collection == 'publications' %}
       <h3 class="archive__item-title" itemprop="headline">
+      {% if include.counter %}{{ include.counter }}.{% endif %}
       <a href="{{ base_path }}{{ post.filelink }}" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
       {% if post.representative == true %}
         [<span style="color: orange;">★</span>]
