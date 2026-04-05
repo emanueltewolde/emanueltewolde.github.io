@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- Welcome to my academic website! It is work in progress, especially starting from the section "Working Papers". -->
 
-I am a fourth-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate enough to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Vincent Conitzer</a>. My work is supported in part by the Cooperative AI PhD Fellowship.
+I am a fourth-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Vincent Conitzer</a>. My work is supported in part by the Cooperative AI PhD Fellowship.
 <!-- and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Foundations of Cooperative AI Lab (FOCAL)</a>. -->
 
 I strive to understand how to enable artificial intelligence and humans to effectively achieve better social outcomes in strategic interactions. More specifically, my current research interests lie in algorithmic game theory, LLM agents, and reinforcement learning, with an emphasis on the cooperation, safety, coordination, and alignment of AI systems. Further research topics I enjoy are mathematical optimization, learning in games, social choice theory, and computational complexity.
