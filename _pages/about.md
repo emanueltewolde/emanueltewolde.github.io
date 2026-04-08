@@ -17,7 +17,7 @@ I am a fourth-year PhD student in the Computer Science Department of Carnegie Me
 
 I strive to understand how to enable artificial intelligence and humans to effectively achieve better social outcomes in strategic interactions. More specifically, my current research interests lie in algorithmic game theory, LLM agents, and reinforcement learning, with an emphasis on the cooperation, safety, coordination, and alignment of AI systems. Further research topics I enjoy are mathematical optimization, learning in games, social choice theory, and computational complexity.
 
-Currently, I am working at Meta's research unit FAIR (within Meta Superintelligence Labs) on LLM coding agents for AI research. Prior to CMU, I completed a Master's and Bachelor's degree in Mathematics at Imperial College London and the Technical University of Darmstadt respectively. In addition to that, I have previously researched ML methods for smarter renewable energy systems.
+In Fall 2025, I took a leave from my PhD to work at FAIR (within Meta Superintelligence Labs) on LLM coding agents for AI research. Prior to CMU, I completed a Master's and Bachelor's degree in Mathematics at Imperial College London and the Technical University of Darmstadt respectively. In addition to that, I have previously researched ML methods for smarter renewable energy systems.
 <!-- <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Fraunhofer-Gesellschaft (IEE)</a> -->
 
 Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
