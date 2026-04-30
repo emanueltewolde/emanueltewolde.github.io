@@ -8,11 +8,11 @@ filelink: '/files/RM+KKTConvergence.pdf'
 date: 2026-01-16
 representative: true
 authors: 'Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Ioannis Panageas, Tuomas Sandholm, Vincent Conitzer'
-status: 'To appear in'
+status: 'Published in'
 venue: 'International Conference on Learning Representations (ICLR) 2026'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
-# paperurl: 'https://www.ijcai.org/proceedings/2023/321'
+paperurl: 'https://openreview.net/forum?id=EOV1q1U23N'
 arxivurl:  'https://arxiv.org/pdf/2510.17067'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'
