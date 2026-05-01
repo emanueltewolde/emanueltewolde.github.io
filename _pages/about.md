@@ -47,7 +47,7 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 
 ## Papers
 
-In below, [<span style="color: orange;">★</span>] indicate most representative works, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, superscripts '==' mark equal contribution, and superscripts '<sup>†</sup>' mark equal advising.
+In below, [<span style="color: orange;">★</span>] indicate most representative works, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, superscripts '==' mark equal contribution, and superscripts '+' mark equal advising.
 
 {% assign total_pubs = site.publications.size %}
 {% assign total_wps = site.workingpapers.size %}
