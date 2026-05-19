@@ -14,7 +14,7 @@ authors: 'Jiayuan Liu<sup>==</sup>, Tianqin Li<sup>==</sup>, Shiyi Du<sup>==</su
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://openreview.net/forum?id=ya8gEkzlr3'
-# arxivurl:  'https://arxiv.org/abs/2602.15252'
+arxivurl:  'https://arxiv.org/abs/2605.08060'
 # githuburl: 'https://github.com/emanueltewolde/ImperfectRecallDecisions'
 # slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'
