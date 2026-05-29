@@ -8,7 +8,7 @@ collection: publications
 #, found on <a href="https://openreview.net/forum?id=ya8gEkzlr3" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">OpenReview</a>'
 date: 2026-05-16
 representative: true
-authors: 'Akash Kundu</sup>==</sup>, Emanuel Tewolde</sup>==</sup>, Ratip Emin Berker, Samuel F. Brown, Vincent Conitzer'
+authors: 'Akash Kundu<sup>==</sup>, Emanuel Tewolde<sup>==</sup>, Ratip Emin Berker, Samuel F. Brown, Vincent Conitzer'
 # status: 'Workshop Paper in'
 # venue: 'AIMS@ICLR26'
 # distinction: '<b>Oral</b> (Top 4.6%)'
