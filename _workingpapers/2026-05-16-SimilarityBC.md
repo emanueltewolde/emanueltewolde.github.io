@@ -1,20 +1,20 @@
 ---
-title: "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents"
+title: "Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
-filelink: '/files/MemoryCurse.pdf' 
+# filelink: '/files/MemoryCurse.pdf' 
 # excerpt: 'At the Workshop AIMS@ICLR26'
 #, found on <a href="https://openreview.net/forum?id=ya8gEkzlr3" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">OpenReview</a>'
-date: 2026-02-20
-representative: false
-authors: 'Jiayuan Liu<sup>==</sup>, Tianqin Li<sup>==</sup>, Shiyi Du<sup>==</sup>, Xin Luo<sup>==</sup>, Haoxuan Zeng, Emanuel Tewolde, Tai Sing Lee, Tonghan Wang, Carl Kingsford, Vincent Conitzer'
+date: 2026-05-16
+representative: true
+authors: 'Akash Kundu==</sup>, Emanuel Tewolde==</sup>, Ratip Emin Berker, Samuel F. Brown, Vincent Conitzer'
 # status: 'Workshop Paper in'
 # venue: 'AIMS@ICLR26'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://openreview.net/forum?id=ya8gEkzlr3'
-arxivurl:  'https://arxiv.org/abs/2605.08060'
+# arxivurl:  'https://arxiv.org/abs/2605.08060'
 # githuburl: 'https://github.com/emanueltewolde/ImperfectRecallDecisions'
 # slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'
