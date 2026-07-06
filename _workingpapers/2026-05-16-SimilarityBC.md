@@ -4,7 +4,7 @@ collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 # filelink: '/files/MemoryCurse.pdf' 
-excerpt: 'At the Workshop AI4GOOd@ICML26'
+excerpt: 'At the Workshop AI4GOOD@ICML26'
 #, found on <a href="https://openreview.net/forum?id=ya8gEkzlr3" target="_blank"  rel="noopener noreferrer" style="text-decoration: none">OpenReview</a>'
 date: 2026-05-16
 representative: true
