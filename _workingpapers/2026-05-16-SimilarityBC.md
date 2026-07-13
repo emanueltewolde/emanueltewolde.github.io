@@ -12,7 +12,7 @@ authors: 'Akash Kundu<sup>==</sup>, Emanuel Tewolde<sup>==</sup>, Ratip Emin Ber
 # status: 'Workshop Paper in'
 # venue: '...'
 # distinction: '<b>Oral</b> (Top 4.6%)
-award: '<i class="fas fa-award" style="color: orange;"></i> <b style="color: orange;"> Best Paper Honorable Mention</b> at AI4GOOD@ICML26 -- Cooperative AI Track (Top 6 out of 539)'
+award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;"> Best Paper Honorable Mention</b> at AI4GOOD@ICML26 -- Cooperative AI Track (Top 6 out of 539)'
 # paperurl: 'https://openreview.net/forum?id=ya8gEkzlr3'
 # arxivurl:  'https://arxiv.org/abs/2605.08060'
 # githuburl: 'https://github.com/emanueltewolde/ImperfectRecallDecisions'
