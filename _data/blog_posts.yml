@@ -1,0 +1,6 @@
+# For posts about a paper, fill in blogurl (and optionally blogtitle) in that paper's
+# _publications/ or _workingpapers/ file. They appear on the homepage automatically.
+# Add standalone blog posts here, in the order you want them displayed:
+# - title: "Your blog post title"
+#   url: "https://your-blog.example/post"
+[]

@@ -1,0 +1,9 @@
+# Replace these two placeholder records with your students' details.
+# Each record appears as: Name — Research topic → Next position or institution.
+- name: "[Student 1 name]"
+  project: "[Research topic]"
+  destination: "[Next position or institution]"
+
+- name: "[Student 2 name]"
+  project: "[Research topic]"
+  destination: "[Next position or institution]"

@@ -5,14 +5,14 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/LLMsMoralSocialDilemmas.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-05-16
+date: 2026-09-01
 representative: false
-authors: 'Steffen Backmann, David Guzman Piedrahita, Emanuel Tewolde, Rada Mihalcea, Bernhard Schölkopf, Zhijing Jin'
-# status: 'Published in'
-# venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
+authors: 'Steffen Backmann, David Guzman Piedrahita, Terry Jingchen Zhang, Emanuel Tewolde, Rada Mihalcea, Bernhard Schölkopf, Zhijing Jin'
+status: 'To Appear In'
+venue: 'Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and International Joint Conference on Natural Language Processing (IJCNLP) 2026'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
-# paperurl: 'https://www.ijcai.org/proceedings/2023/321'
+paperurl: 'https://openreview.net/forum?id=n1izYgtc0h#discussion'
 arxivurl:  'https://arxiv.org/abs/2505.19212'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'

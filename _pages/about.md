@@ -12,12 +12,12 @@ redirect_from:
 
 <!-- Welcome to my academic website! It is work in progress, especially starting from the section "Working Papers". -->
 
-I am a fourth-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Vincent Conitzer</a>. My work is supported in part by the Cooperative AI PhD Fellowship.
+I am a fifth-year PhD student in the Computer Science Department of Carnegie Mellon University, where I am fortunate to be advised by <a href=" https://www.cs.cmu.edu/~conitzer/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Vincent Conitzer</a>. My work is supported in part by the Cooperative AI PhD Fellowship.
 <!-- and to be part of the <a href=" https://www.cs.cmu.edu/~focal/ " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Foundations of Cooperative AI Lab (FOCAL)</a>. -->
 
 I strive to understand how to enable artificial intelligence and humans to effectively achieve better social outcomes in strategic interactions. More specifically, my current research interests lie in algorithmic game theory, LLM agents, and reinforcement learning, with an emphasis on the cooperation, safety, coordination, and alignment of AI systems. Further research topics I enjoy are mathematical optimization, learning in games, social choice theory, and computational complexity.
 
-In Fall 2025, I took a leave from my PhD to work at FAIR (within Meta Superintelligence Labs) on LLM coding agents for AI research. Prior to CMU, I completed a Master's and Bachelor's degree in Mathematics at Imperial College London and the Technical University of Darmstadt respectively. In addition to that, I have previously researched ML methods for smarter renewable energy systems.
+Since July 2026, I have been working with Fujitsu Research on multi agent AI security (now part-time), and in Fall 2025, I took a leave from my PhD to work at FAIR (within Meta Superintelligence Labs) on LLM coding agents for AI research. Prior to CMU, I completed a Master's and Bachelor's degree in Mathematics at Imperial College London and the Technical University of Darmstadt respectively. In addition to that, I have previously researched ML methods for smarter renewable energy systems.
 <!-- <a href=" https://www.iee.fraunhofer.de/en.html " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">Fraunhofer-Gesellschaft (IEE)</a> -->
 
 Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
@@ -69,9 +69,22 @@ In below, [<span style="color: orange;">★</span>] indicate most representative
   {% include archive-single.html counter=paper_counter %}
 {% endfor %}
 
+## Blog Posts
+
+{% include blog-posts.html %}
+
 ## Teaching
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+{% comment %}
+## Mentoring
+
+<ul class="mentoring-list">
+  {% for student in site.data.mentoring %}
+    <li><strong>{{ student.name | escape }}</strong> — {{ student.project | escape }} → {{ student.destination | escape }}</li>
+  {% endfor %}
+</ul>
+{% endcomment %}

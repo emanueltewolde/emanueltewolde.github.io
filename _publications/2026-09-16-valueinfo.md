@@ -1,23 +1,22 @@
 ---
-title: "Computing Game Symmetries and Equilibria That Respect Them"
+title: "What You Earn from What You Learn: Characterization and
+  Complexity of Value of Information"
 collection: publications
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
-filelink: '/files/symmetries.pdf' 
+# filelink: '/files/LLMsMoralSocialDilemmas.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-02-01
-representative: true
-authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Tuomas Sandholm, and Vincent Conitzer'
-status: 'Published in'
-venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
-distinction: '<b>Oral</b> (Top 4.6% of submissions)'
-award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;"> Best Poster Award </b> at AAAI 2025 (out of 674 posters)'
-paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33549'
-arxivurl:  'https://arxiv.org/abs/2501.08905'
+date: 2026-09-16
+representative: false
+authors: 'Ratip Emin Berker<sup>==</sup>, Ioannis Anagnostides<sup>==</sup>, Emanuel Tewolde, Brian Hu Zhang, Tuomas Sandholm, Vincent Conitzer'
+status: 'To Appear In'
+venue: 'Web and Internet Economics (WINE) 2026'
+# distinction: '<b>Oral</b> (Top 4.6%)'
+# award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
+# paperurl: 'https://openreview.net/forum?id=n1izYgtc0h#discussion'
+# arxivurl:  'https://arxiv.org/abs/2505.19212'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
-videourl: 'https://youtu.be/X7eEPIJ3dV8'
-blogurl: 'https://www.cs.cmu.edu/~csd-phd-blog/2025/symmetries-in-games/'
-blogtitle: 'Leveraging Symmetries in Strategic Games' # Optional blog-specific title.
+# videourl: 'https://youtu.be/X7eEPIJ3dV8'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # image: '/images/dblpicon.png'
 

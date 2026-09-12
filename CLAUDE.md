@@ -112,6 +112,17 @@ npm run build:js        # Build JavaScript assets
 ### Navigation
 Currently, main navigation is commented out in `_data/navigation.yml`, making the site a single-page layout focused on the about page.
 
+### Blog Posts and Mentoring
+- Add `blogurl: 'https://...'` to any publication or working paper to show a `[blog post]` link beside its other resource links and include it in the homepage Blog Posts list.
+- Optionally set `blogtitle` to use a different title in the Blog Posts list.
+- Add posts unrelated to a paper in `_data/blog_posts.yml`. Paper-related posts appear newest paper first, followed by standalone posts in their data-file order.
+- Fill the two placeholder records in `_data/mentoring.yml` with student names, research topics, and subsequent positions/institutions. Each record becomes one list item at the bottom of the homepage.
+
+### Site Icons
+- Browser and search icons are linked in `_includes/head/custom.html`: `/favicon.ico`, `/images/favicon-96x96.png`, and `/images/apple-touch-icon.png`.
+- These are square portrait icons based on `images/profile.png`; changing the profile photo alone does not regenerate them.
+- Google must recrawl the deployed homepage and icon before search results can update; favicon display is not guaranteed.
+
 ## Content Conventions
 - Author ordering notation: "- αβ -" indicates alphabetical ordering
 - Equal contribution: "==" superscripts

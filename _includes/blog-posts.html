@@ -1,0 +1,19 @@
+{% comment %}
+Paper-related posts reuse blogurl and optional blogtitle from the paper's front matter.
+Standalone posts can be added to _data/blog_posts.yml in the desired display order.
+{% endcomment %}
+{% assign blog_papers = site.publications | concat: site.workingpapers | sort: "date" | reverse %}
+<ul class="blog-posts">
+  {% for paper in blog_papers %}
+    {% if paper.blogurl %}
+      <li>
+        <a href="{{ paper.blogurl | relative_url | escape }}" target="_blank" rel="noopener noreferrer">{{ paper.blogtitle | default: paper.title | escape }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  {% for blog_post in site.data.blog_posts %}
+    <li>
+      <a href="{{ blog_post.url | relative_url | escape }}" target="_blank" rel="noopener noreferrer">{{ blog_post.title | escape }}</a>
+    </li>
+  {% endfor %}
+</ul>
