@@ -2,17 +2,20 @@
 Paper-related posts reuse blogurl and optional blogtitle from the paper's front matter.
 Standalone posts can be added to _data/blog_posts.yml in the desired display order.
 {% endcomment %}
-{% assign blog_papers = site.publications | concat: site.workingpapers | sort: "date" | reverse %}
+{% assign all_papers = site.publications | concat: site.workingpapers %}
+{% assign blog_papers = all_papers | where_exp: "paper", "paper.blogurl" | sort: "blogdate" | reverse %}
+{% assign total_blog_papers = blog_papers.size %}
 <ul class="blog-posts">
   {% for paper in blog_papers %}
-    {% if paper.blogurl %}
-      <li>
-        <a href="{{ paper.blogurl | relative_url | escape }}" target="_blank" rel="noopener noreferrer">{{ paper.blogtitle | default: paper.title | escape }}</a>
-      </li>
-    {% endif %}
+    {% assign blog_counter = total_blog_papers | minus: forloop.index0 %}
+    <li>
+      <span class="blog-counter publication-badge publication-badge--blog-post" aria-label="Blog post {{ blog_counter }}">[B{{ blog_counter }}]</span>
+      <a href="{{ paper.blogurl | relative_url | escape }}" target="_blank" rel="noopener noreferrer">{{ paper.blogtitle | default: paper.title | escape }}</a>
+    </li>
   {% endfor %}
   {% for blog_post in site.data.blog_posts %}
     <li>
+      <span class="blog-counter publication-badge publication-badge--blog-post" aria-label="Blog post {{ total_blog_papers | plus: forloop.index }}">[B{{ total_blog_papers | plus: forloop.index }}]</span>
       <a href="{{ blog_post.url | relative_url | escape }}" target="_blank" rel="noopener noreferrer">{{ blog_post.title | escape }}</a>
     </li>
   {% endfor %}

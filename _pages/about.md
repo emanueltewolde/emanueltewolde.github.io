@@ -47,26 +47,36 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 
 ## Papers
 
-In below, [<span style="color: orange;">★</span>] indicate most representative works, ' - &alpha;&beta; - &#124;' stands for alphabetical author ordering, superscripts '==' mark equal contribution, and superscripts '+' mark equal advising.
+<div class="paper-legend" aria-label="Paper types and author notes">
+  <div class="paper-legend__types" aria-label="Paper types">
+    {% for type_entry in site.data.publication_types %}
+      {% assign type_key = type_entry[0] %}
+      {% assign type_info = type_entry[1] %}
+      {% assign type_class = type_key | replace: '_', '-' %}
+      <span class="paper-legend__item">
+        <span class="publication-badge publication-badge--{{ type_class }}" aria-hidden="true">{{ type_info.code }}</span>
+        <span>{{ type_info.label }}</span>
+      </span>
+    {% endfor %}
+  </div>
+  <div class="paper-legend__notes" aria-label="Author and paper notes">
+    <span class="paper-legend__note"><span class="paper-legend__symbol paper-legend__symbol--star" aria-hidden="true">★</span> Representative work</span>
+    <span class="paper-legend__note"><span class="paper-legend__symbol">− αβ − |</span> Alphabetical author order</span>
+    <span class="paper-legend__note"><span class="paper-legend__symbol"><sup>==</sup></span> Equal contribution</span>
+    <span class="paper-legend__note"><span class="paper-legend__symbol"><sup>+</sup></span> Equal advising</span>
+  </div>
+</div>
 
-{% assign total_pubs = site.publications.size %}
-{% assign total_wps = site.workingpapers.size %}
-
-{% if total_wps != 0 %}
-### Working Papers
+### Preprints
 
 {% for post in site.workingpapers reversed %}
-  {% assign paper_counter = total_pubs | plus: total_wps | minus: forloop.index0 %}
-  {% include archive-single.html counter=paper_counter %}
+  {% include archive-single.html %}
 {% endfor %}
 
-{% endif %}
-
-### Publications
+### Publications and Manuscripts
 
 {% for post in site.publications reversed %}
-  {% assign paper_counter = total_pubs | minus: forloop.index0 %}
-  {% include archive-single.html counter=paper_counter %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## Blog Posts

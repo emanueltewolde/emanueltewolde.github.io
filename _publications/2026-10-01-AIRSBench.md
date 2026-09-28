@@ -1,6 +1,7 @@
 ---
 title: "AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents"
 collection: publications
+publication_type: journal
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/AIRSBench.pdf' 

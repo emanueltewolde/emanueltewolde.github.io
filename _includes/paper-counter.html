@@ -1,0 +1,9 @@
+{% assign paper_type = include.post.publication_type %}
+{% assign papers_of_type = site.publications | concat: site.workingpapers | where: "publication_type", paper_type | sort: "date" %}
+{% assign paper_type_info = site.data.publication_types[paper_type] %}
+{% for numbered_paper in papers_of_type %}
+  {% if numbered_paper.url == include.post.url %}
+    <span class="paper-counter publication-badge publication-badge--{{ paper_type | replace: '_', '-' }}" aria-label="{{ paper_type_info.label }} {{ forloop.index }}">[{{ paper_type_info.code }}{{ forloop.index }}]</span>
+    {% break %}
+  {% endif %}
+{% endfor %}

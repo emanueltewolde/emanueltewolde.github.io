@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+### Preprints
+
+{% for post in site.workingpapers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+### Publications and Manuscripts
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

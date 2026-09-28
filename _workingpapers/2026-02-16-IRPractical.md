@@ -1,10 +1,13 @@
 ---
 title: "Decision Making under Imperfect Recall: Algorithms and Benchmarks"
 collection: publications
+publication_type: workshop
+status: 'Presented at the workshop'
+venue: 'AIMS@ICLR26'
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/IRPractical.pdf' 
-excerpt: 'Oral Presentation at the Workshop AIMS@ICLR26'
+# excerpt: 'Oral Presentation at the Workshop AIMS@ICLR26'
 date: 2026-02-16
 representative: true
 authors: 'Emanuel Tewolde, Brian Hu Zhang, Ioannis Anagnostides, Tuomas Sandholm, Vincent Conitzer'

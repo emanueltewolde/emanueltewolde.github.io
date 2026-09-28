@@ -34,9 +34,9 @@
       {% endif %}
     </h4> -->
     
-    {% if post.collection == 'workingpapers' %}
+    {% if post.publication_type == 'preprint' or post.publication_type == 'workshop' %}
       <h3 class="archive__item-title" itemprop="headline">
-      {% if include.counter %}{{ include.counter }}.{% endif %}
+      {% include paper-counter.html post=post %}
       {% if post.filelink %}
         <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
       {% else %}
@@ -48,13 +48,17 @@
       <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
+      {% if post.status or post.venue %}
+        <br>
+        {{ post.status }}{% if post.status and post.venue %}&#32;{% endif %}{% if post.venue %}<i>{{ post.venue }}</i>{% endif %}
+      {% endif %}
       <!-- <br>
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">arXiv</a>] -->
       {% endif %}
 
-    {% if post.collection == 'publications' %}
+    {% if post.publication_type == 'conference' or post.publication_type == 'journal' or post.publication_type == 'manuscript' %}
       <h3 class="archive__item-title" itemprop="headline">
-      {% if include.counter %}{{ include.counter }}.{% endif %}
+      {% include paper-counter.html post=post %}
       {% if post.filelink %}
         <a href="{{ base_path }}{{ post.filelink }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">{{ title }}</a>
       {% else %}
@@ -66,8 +70,10 @@
       <!-- rel="permalink">{{ title }}</a> -->
       </h3> 
       {{ post.authors }}
-      <br>
-      {{ post.status }} <i>{{ post.venue }}</i>
+      {% if post.status or post.venue %}
+        <br>
+        {{ post.status }}{% if post.status and post.venue %}&#32;{% endif %}{% if post.venue %}<i>{{ post.venue }}</i>{% endif %}
+      {% endif %}
       <!-- <br>
       [<a href=" {{ post.arxivurl }} " target="_blank"  rel="noopener noreferrer" style="text-decoration: none">arXiv</a>] -->
     {% endif %}

@@ -1,6 +1,7 @@
 ---
 title: "Computing Game Symmetries and Equilibria That Respect Them"
 collection: publications
+publication_type: conference
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/symmetries.pdf' 
@@ -18,6 +19,7 @@ arxivurl:  'https://arxiv.org/abs/2501.08905'
 videourl: 'https://youtu.be/X7eEPIJ3dV8'
 blogurl: 'https://www.cs.cmu.edu/~csd-phd-blog/2025/symmetries-in-games/'
 blogtitle: 'Leveraging Symmetries in Strategic Games' # Optional blog-specific title.
+blogdate: 2025-05-02
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # image: '/images/dblpicon.png'
 

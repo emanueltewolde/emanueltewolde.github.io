@@ -63,3 +63,165 @@
   border-bottom: 2px solid #3498db;
   padding-bottom: 0.5em;
 }
+
+/* Give each blog post a clear, card-like place at the bottom of the homepage. */
+.blog-posts {
+  display: grid;
+  gap: 0.75em;
+  margin: 1em 0 2em;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-posts li {
+  padding: 0.9em 1em;
+  border: 1px solid #e0e5e9;
+  border-left: 4px solid #52adc8;
+  border-radius: 4px;
+  background: #f8f9fa;
+}
+
+.blog-posts a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-posts a:hover {
+  text-decoration: underline;
+}
+
+/* Compact, labeled badges keep publication types legible without relying on color alone. */
+.publication-badge {
+  display: inline-flex;
+  min-width: 1.9em;
+  align-items: center;
+  justify-content: center;
+  padding: 0.12em 0.42em;
+  border: 1px solid transparent;
+  border-radius: 0.4em;
+  font: 700 0.78em/1.45 system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.paper-counter,
+.blog-counter {
+  margin-right: 0.35em;
+  vertical-align: 0.08em;
+}
+
+/* Explicit list and legend selectors keep the type fills visible beside paper titles. */
+.archive__item-title .publication-badge,
+.paper-legend .publication-badge,
+.blog-posts .publication-badge {
+  display: inline-flex;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 0.4em;
+  font-weight: 700;
+}
+
+.archive__item-title .publication-badge--conference,
+.paper-legend .publication-badge--conference {
+  color: #fff;
+  background-color: #005a8d;
+  border-color: #005a8d;
+}
+
+.archive__item-title .publication-badge--journal,
+.paper-legend .publication-badge--journal {
+  color: #fff;
+  background-color: #006b50;
+  border-color: #006b50;
+}
+
+.archive__item-title .publication-badge--manuscript,
+.paper-legend .publication-badge--manuscript {
+  color: #17324d;
+  background-color: #d6eaf8;
+  border-color: #91bfdc;
+}
+
+.archive__item-title .publication-badge--workshop,
+.paper-legend .publication-badge--workshop {
+  color: #fff;
+  background-color: #7a263a;
+  border-color: #7a263a;
+}
+
+.archive__item-title .publication-badge--preprint,
+.paper-legend .publication-badge--preprint {
+  color: #fff;
+  background-color: #a65300;
+  border-color: #a65300;
+}
+
+.blog-posts .publication-badge--blog-post {
+  color: #fff;
+  background-color: #923e67;
+  border-color: #923e67;
+}
+
+.paper-legend {
+  margin: 1em 0 1.5em;
+  padding: 1em 1.1em;
+  border: 1px solid #dfe6eb;
+  border-radius: 0.75em;
+  background: #f8fafb;
+}
+
+.paper-legend__types,
+.paper-legend__notes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65em 1.1em;
+}
+
+.paper-legend__types {
+  padding-bottom: 0.85em;
+}
+
+.paper-legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45em;
+  white-space: nowrap;
+}
+
+.paper-legend__notes {
+  padding-top: 0.75em;
+  border-top: 1px solid #dfe6eb;
+  color: #45515b;
+  font-size: 0.92em;
+}
+
+.paper-legend__note {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.paper-legend__symbol {
+  display: inline-flex;
+  min-width: 1.8em;
+  justify-content: center;
+  color: #34495e;
+  font-weight: 700;
+}
+
+.paper-legend__symbol--star {
+  color: #a85b00;
+  font-size: 1.15em;
+}
+
+@media screen and (max-width: 600px) {
+  .paper-legend {
+    padding: 0.85em;
+  }
+
+  .paper-legend__types,
+  .paper-legend__notes {
+    gap: 0.6em 0.85em;
+  }
+}

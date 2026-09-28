@@ -1,6 +1,7 @@
 ---
 title: "What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity"
 collection: publications
+publication_type: manuscript
 # permalink: /publication/2023-08-19-The-Computational-Complexity-of-Single-Player-Imperfect-Recall-Games
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/AIRAdiversity.pdf' 

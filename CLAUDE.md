@@ -104,9 +104,11 @@ npm run build:js        # Build JavaScript assets
 ```
 
 ### Content Management
-- Publications: Add new `.md` files to `_publications/`
+- Publications and manuscripts: Add entries to `_publications/` and set `publication_type` to `conference`, `journal`, or `manuscript`.
 - Teaching: Add new `.md` files to `_teaching/`
-- Working papers: Add new `.md` files to `_workingpapers/`
+- Active preprints: Add entries to `_workingpapers/` with `publication_type: preprint`.
+- Workshop papers use `publication_type: workshop` and receive a separate `W` number.
+- Category codes and legend labels are defined in `_data/publication_types.yml`.
 - Files: Upload PDFs to `files/` directory
 
 ### Navigation
@@ -115,7 +117,8 @@ Currently, main navigation is commented out in `_data/navigation.yml`, making th
 ### Blog Posts and Mentoring
 - Add `blogurl: 'https://...'` to any publication or working paper to show a `[blog post]` link beside its other resource links and include it in the homepage Blog Posts list.
 - Optionally set `blogtitle` to use a different title in the Blog Posts list.
-- Add posts unrelated to a paper in `_data/blog_posts.yml`. Paper-related posts appear newest paper first, followed by standalone posts in their data-file order.
+- Set `blogdate` to the publication date; paper-related blog entries receive a separate `B` number and appear newest first at the bottom of the homepage.
+- Add posts unrelated to a paper in `_data/blog_posts.yml`. Paper-related posts appear newest blog date first, followed by standalone posts in their data-file order.
 - Fill the two placeholder records in `_data/mentoring.yml` with student names, research topics, and subsequent positions/institutions. Each record becomes one list item at the bottom of the homepage.
 
 ### Site Icons

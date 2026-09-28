@@ -1,0 +1,15 @@
+preprint:
+  code: P
+  label: Preprint
+journal:
+  code: J
+  label: Journal article
+conference:
+  code: C
+  label: Conference paper
+workshop:
+  code: W
+  label: Workshop paper
+manuscript:
+  code: M
+  label: Manuscript
