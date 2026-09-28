@@ -5,14 +5,14 @@ collection: publications
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/AIRSBench.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-02-01
+date: 2026-10-01
 representative: false
 authors: 'Alisia Lupidi<sup>==</sup>, Bhavul Gauri<sup>==</sup>, Thomas Simon Foster<sup>==</sup>, Bassel Al Omari<sup>==</sup>, Despoina Magka<sup>==</sup>, ... (11 more authors) ..., Emanuel Tewolde, ... (18 more authors) ..., Jakob Foerster, Yoram Bachrach'
-# status: 'Published in'
-# venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
+status: 'Published in'
+venue: 'Transactions on Machine Learning Research (TMLR)'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
-# paperurl: 'https://www.ijcai.org/proceedings/2023/321'
+paperurl: 'https://openreview.net/forum?id=ELg8kRK9Wd'
 arxivurl:  'https://arxiv.org/abs/2602.06855'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
 # videourl: 'https://youtu.be/X7eEPIJ3dV8'
