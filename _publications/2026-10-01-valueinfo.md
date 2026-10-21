@@ -12,7 +12,7 @@ representative: false
 authors: 'Ratip Emin Berker<sup>==</sup>, Ioannis Anagnostides<sup>==</sup>, Emanuel Tewolde, Brian Hu Zhang, Tuomas Sandholm, Vincent Conitzer'
 status: 'To Appear In'
 venue: 'Web and Internet Economics (WINE) 2026'
-award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;">Best Student Paper Award</b> (awarded to two out of 98 accepted papers)'
+award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;">Best Student Paper Award</b> (Top 2 out of 503 submissions)'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://openreview.net/forum?id=n1izYgtc0h#discussion'

@@ -12,7 +12,7 @@ authors: 'Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Tuomas Sandholm, a
 status: 'Published in'
 venue: 'Association for the Advancement of Artificial Intelligence (AAAI) 2025'
 distinction: '<b>Oral</b> (Top 4.6% of submissions)'
-award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;"> Best Poster Award </b> at AAAI 2025 (out of 674 posters)'
+award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;"> Best Poster Award </b> at AAAI 2025 (Top 3 out of 12,957 submissions)'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33549'
 arxivurl:  'https://arxiv.org/abs/2501.08905'
 #slidesurl: 'https://arxiv.org/abs/2111.00076'
