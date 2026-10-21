@@ -7,11 +7,12 @@ publication_type: conference
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 # filelink: '/files/LLMsMoralSocialDilemmas.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-09-16
+date: 2026-10-01
 representative: false
 authors: 'Ratip Emin Berker<sup>==</sup>, Ioannis Anagnostides<sup>==</sup>, Emanuel Tewolde, Brian Hu Zhang, Tuomas Sandholm, Vincent Conitzer'
 status: 'To Appear In'
 venue: 'Web and Internet Economics (WINE) 2026'
+award: '<i class="fas fa-award" style="color: purple;"></i> <b style="color: purple;">Best Student Paper Award</b> (awarded to two out of 98 accepted papers)'
 # distinction: '<b>Oral</b> (Top 4.6%)'
 # award: '<i class="fas fa-award"></i> <b> Best Poster Award </b> (Competing with 674 posters)'
 # paperurl: 'https://openreview.net/forum?id=n1izYgtc0h#discussion'

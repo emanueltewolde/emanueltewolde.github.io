@@ -6,7 +6,7 @@ publication_type: journal
 # permalink: '/files/paper11.pdf' #../files/paper11.pdf #../files/preservinggametrafos.pdf #/files/paper1.pdf 
 filelink: '/files/AIRSBench.pdf' 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-10-01
+date: 2026-09-16
 representative: false
 authors: 'Alisia Lupidi<sup>==</sup>, Bhavul Gauri<sup>==</sup>, Thomas Simon Foster<sup>==</sup>, Bassel Al Omari<sup>==</sup>, Despoina Magka<sup>==</sup>, ... (11 more authors) ..., Emanuel Tewolde, ... (18 more authors) ..., Jakob Foerster, Yoram Bachrach'
 status: 'Published in'
