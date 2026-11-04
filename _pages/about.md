@@ -91,16 +91,16 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
 
 ## Mentoring
 
-<ul class="mentoring-list">
+<div class="mentoring-list">
   {% for student in site.data.mentoring %}
-    <li>
-      <strong>{{ student.name | escape }}</strong>
+    <p class="mentoring-entry">
+      {{ student.name | escape }}
       {% if student.start_year %}
         <span class="mentoring-years">({% if student.end_year == student.start_year %}{{ student.start_year }}{% else %}{{ student.start_year }}–{% if student.end_year %}{{ student.end_year }}{% else %}present{% endif %}{% endif %})</span>
       {% endif %}
-      {% if student.previous_position %} — began mentoring when they were {{ student.previous_position | escape }}{% endif %}
       {% if student.projects %} — Projects: {{ student.projects | join: "; " | escape }}{% endif %}
-      {% if student.destination %} → {{ student.destination | escape }}{% endif %}
-    </li>
+      {% if student.previous_position %} · Started as: {{ student.previous_position | escape }}{% endif %}
+      {% if student.destination %} · Now: {{ student.destination | escape }}{% endif %}
+    </p>
   {% endfor %}
-</ul>
+</div>
