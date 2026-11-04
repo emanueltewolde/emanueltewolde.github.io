@@ -119,7 +119,7 @@ Currently, main navigation is commented out in `_data/navigation.yml`, making th
 - Optionally set `blogtitle` to use a different title in the Blog Posts list.
 - Set `blogdate` to the publication date; paper-related blog entries receive a separate `B` number and appear newest first at the bottom of the homepage.
 - Add posts unrelated to a paper in `_data/blog_posts.yml`. Paper-related posts appear newest blog date first, followed by standalone posts in their data-file order.
-- Fill the two placeholder records in `_data/mentoring.yml` with student names, research topics, and subsequent positions/institutions. Each record becomes one list item at the bottom of the homepage.
+- Add each student's `start_year`, optional `end_year` (leave it blank while mentoring is ongoing), `previous_position` at the start of mentoring, a `projects` list, and `destination` in `_data/mentoring.yml`. The active one-line-per-student list appears at the bottom of the homepage through `_pages/about.md`.
 
 ### Site Icons
 - Browser and search icons are linked in `_includes/head/custom.html`: `/favicon.ico`, `/images/favicon-96x96.png`, and `/images/apple-touch-icon.png`.

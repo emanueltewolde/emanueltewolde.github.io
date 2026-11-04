@@ -1,9 +1,17 @@
-# Replace these two placeholder records with your students' details.
-# Each record appears as: Name — Research topic → Next position or institution.
-- name: "[Student 1 name]"
-  project: "[Research topic]"
-  destination: "[Next position or institution]"
+# Mentoring intervals use calendar years; leave end_year blank while mentoring is ongoing.
+# previous_position is what the student was doing when mentoring began. Add one or more projects.
+- name: "Akash Kundu"
+  start_year: 2026
+  end_year: 2026
+  previous_position: "Cooperative AI Research Fellow and Undergrad @ Heritage Institute of Technology"
+  projects:
+    - "Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation"
+  destination: "Evaluations Engineer @ Apart Research"
 
-- name: "[Student 2 name]"
-  project: "[Research topic]"
-  destination: "[Next position or institution]"
+- name: "Xiao Zhang"
+  start_year: 2025
+  end_year:
+  previous_position: "Undergrad @ UToronto"
+  projects:
+    - "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas"
+  destination: "SWE @ Google"
