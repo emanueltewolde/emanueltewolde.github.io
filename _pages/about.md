@@ -98,7 +98,7 @@ Feel free to reach out to me under emanueltewolde (at) cmu (dot) edu.
       {% if student.start_year %}
         <span class="mentoring-years">({% if student.end_year == student.start_year %}{{ student.start_year }}{% else %}{{ student.start_year }}–{% if student.end_year %}{{ student.end_year }}{% else %}present{% endif %}{% endif %})</span>
       {% endif %}
-      {% if student.projects %} — Projects: {{ student.projects | join: "; " | escape }}{% endif %}
+      {% if student.projects %} · Project(s): {{ student.projects | join: "; " | escape }}{% endif %}
       {% if student.previous_position %} · Started as: {{ student.previous_position | escape }}{% endif %}
       {% if student.destination %} · Now: {{ student.destination | escape }}{% endif %}
     </p>
